@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/lodash/lodash.git",
+    "version": "3.9.1",
+    "tag": "3.9.1-npm",
+    "name": "lodash._getnative",
+    "main": "index.js"
+}
