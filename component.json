@@ -1,9 +1,0 @@
-{
-    "name": "lodash._getnative",
-    "description": "The modern build of lodash’s internal `getNative` as a module.",
-    "repos": "https://github.com/lodash/lodash.git",
-    "tag": "3.9.3-npm",
-    "reposType": "npm",
-    "main": "index.js",
-    "version": "3.9.3"
-}
