@@ -1,7 +1,8 @@
 {
-    "version": "3.10.1",
-    "tag": "3.10.1-npm",
-    "repos": "https://github.com/lodash/lodash.git",
     "name": "lodash._getnative",
-    "main": "index.js"
+    "description": "The modern build of lodash’s internal `getNative` as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "3.9.0"
 }
